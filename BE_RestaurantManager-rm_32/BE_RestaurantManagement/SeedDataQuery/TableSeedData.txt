@@ -1,0 +1,17 @@
+﻿SET IDENTITY_INSERT [RestaurantDB].[dbo].[Tables] ON;
+
+INSERT INTO [RestaurantDB].[dbo].[Tables] ([TableId], [Capacity], [Status])
+VALUES 
+    (1, 2, 'Available'),
+    (2, 2, 'Available'),
+    (3, 6, 'Available'),
+    (4, 6, 'Available'),
+    (5, 8, 'Available'),
+	(6, 8, 'Available'),
+	(7, 4, 'Available'),
+	(8, 4, 'Available'),
+	(9, 4, 'Available'),
+	(10, 4, 'Available'),
+	(11, 4, 'Available')
+
+SET IDENTITY_INSERT [RestaurantDB].[dbo].[Tables] OFF;

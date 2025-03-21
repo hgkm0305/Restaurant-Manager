@@ -1,0 +1,10 @@
+Link cards demo testing : https://docs.stripe.com/testing
+Link Stripe dashboard : https://dashboard.stripe.com/test/dashboard
+Link Payment & Payment Intents : https://dashboard.stripe.com/test/search?query=visa&search_context_id=wksp_test_6S8bvk9oSQwJrLixFNMjPXs
+
+Card demo : 
+Card number : 4242424242424242
+MM/YY : 12/25
+CVC : 123
+ZIP : 12345
+
